@@ -1,0 +1,110 @@
+[
+  {
+      "itemName" : "Onions",
+      "itemImage" : "Onions",
+      "itemDescription" : "Onions description",
+      "itemSeller" : "Onions Seller Name",
+      "itemPrice" : 30,
+      "itemDetails" : {
+          "Offer" : "6%OFF",
+          "Weight" : "Weight_description",
+          "detail3" : "detail3_description"
+      }
+  },
+  {
+      "itemName" : "Tomatoes",
+      "itemImage" : "Tomatoes",
+      "itemDescription" : "Tomatoes description",
+      "itemSeller" : "Tomatoes Seller Name",
+      "itemPrice" : 35,
+      "itemDetails" : {
+          "Offer" : "15%OFF",
+          "Weight" : "Weight_description",
+          "detail3" : "detail3_description"
+      }
+  },
+  {
+      "itemName" : "Potatoes",
+      "itemImage" : "Potatoes",
+      "itemDescription" : "Potatoes description",
+      "itemSeller" : "Potatoes Seller Name",
+      "itemPrice" : 25,
+      "itemDetails" : {
+          "Offer" : "5%OFF",
+          "Weight" : "Weight_description",
+          "detail3" : "detail3_description"
+      }
+  },
+  {
+      "itemName" : "Brinjal",
+      "itemImage" : "Brinjal",
+      "itemDescription" : "Brinjal description",
+      "itemSeller" : "Brinjal Seller Name",
+      "itemPrice" : 40,
+      "itemDetails" : {
+          "Offer" : "20%OFF",
+          "Weight" : "Weight_description",
+          "detail3" : "detail3_description"
+      }
+  },
+  {
+      "itemName" : "GreenChilli",
+      "itemImage" : "Green_Chilli",
+      "itemDescription" : "GreenChilli description",
+      "itemSeller" : "GreenChilli Seller Name",
+      "itemPrice" : 45,
+      "itemDetails" : {
+          "Offer" : "12%OFF",
+          "Weight" : "Weight_description",
+          "detail3" : "detail3_description"
+      }
+  },
+  {
+      "itemName" : "Ginger",
+      "itemImage" : "Ginger",
+      "itemDescription" : "Ginger description",
+      "itemSeller" : "Ginger Seller Name",
+      "itemPrice" : 50,
+      "itemDetails" : {
+          "Offer" : "15%OFF",
+          "Weight" : "Weight_description",
+          "detail3" : "detail3_description"
+      }
+  },
+  {
+      "itemName" : "Green Beans",
+      "itemImage" : "Green_beans",
+      "itemDescription" : "Beans description",
+      "itemSeller" : "Beans Seller Name",
+      "itemPrice" : 33,
+      "itemDetails" : {
+          "Offer" : "8%OFF",
+          "Weight" : "Weight_description",
+          "detail3" : "detail3_description"
+      }
+  },
+  {
+      "itemName" : "Carrot",
+      "itemImage" : "Carrot",
+      "itemDescription" : "carrot description",
+      "itemSeller" : "carrot Seller Name",
+      "itemPrice" : 43,
+      "itemDetails" : {
+          "Offer" : "12%OFF",
+          "Weight" : "Weight_description",
+          "detail3" : "detail3_description"
+      }
+  },
+  {
+      "itemName" : "Okra",
+      "itemImage" : "Okra",
+      "itemDescription" : "Okra description",
+      "itemSeller" : "Okra Seller Name",
+      "itemPrice" : 30,
+      "itemDetails" : {
+          "Offer" : "10%OFF",
+          "Weight" : "Weight_description",
+          "detail3" : "detail3_description"
+      }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+      "firstName" : "John",
+      "lastName" : "K",
+      "email" : "john.k43@gmail.com",
+      "mobile" : "9876543210",
+      "password" : "john@123"
+  },
+  {
+      "firstName" : "Tom",
+      "lastName" : "K",
+      "email" : "tom.k43@gmail.com",
+      "mobile" : "9876543211",
+      "password" : "tom@123"
+  },
+  {
+      "firstName" : "Robert",
+      "lastName" : "K",
+      "email" : "tom.k43@gmail.com",
+      "mobile" : "9876543212",
+      "password" : "robert@123"
+  }
+]
+
